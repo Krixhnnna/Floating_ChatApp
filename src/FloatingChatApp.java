@@ -67,7 +67,7 @@ public class FloatingChatApp extends Application {
     private static boolean isVisible = true;
     private static boolean isMinimized = false;
     private static double lastX, lastY;
-    private static final String GEMINI_API_KEY = "AIzaSyB1LON40MDHU2MxLNJTEmmscIhQLZWAeW8"; // Replace with your actual API key
+    private static final String GEMINI_API_KEY = "YOUR_API_KEY"; // Replace with your actual API key
 
     // Define constants for hotkeys
     private static final int VK_H = 0x48;
