@@ -1,7 +1,18 @@
-﻿# Floating_ChatApp
-A Floating Chat App with Features like Always on Top of any application with hotkey (CTRL + B) to Hide/Unhide.
+# 🗨️ Floating Chat App
 
-Go To Src/FloatingChatApp.java
-Search "YOUR_API_KEY" and replace it with your Gemini API KEY
+A lightweight floating chat application that stays **always on top** of any application, allowing quick access through a customizable **hotkey**.
 
-GET API KEY FROM HERE : https://aistudio.google.com
+## 🚀 Features
+
+- 🪟 **Always on Top** – The chat window floats above all other windows.
+- 🎛️ **Toggle Visibility** – Use **`CTRL + B`** to **Hide/Unhide** the chat window instantly.
+- 🔑 **Powered by Gemini AI** – Connect your Gemini API for smart conversations.
+
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/FloatingChatApp.git
+   cd FloatingChatApp
