@@ -14,5 +14,5 @@ A lightweight floating chat application that stays **always on top** of any appl
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/FloatingChatApp.git
-   cd FloatingChatApp
+   git clone https://github.com/Krixhnnna/Floating_ChatApp.git
+   cd Floating_ChatApp
