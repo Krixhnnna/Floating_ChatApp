@@ -1,4 +1,4 @@
-# 🗨️ Floating Chat App
+# 🗨️ Floating Chat Bot
 
 A lightweight floating chat application that stays **always on top** of any application, allowing quick access through a customizable **hotkey**.
 
